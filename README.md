@@ -23,7 +23,7 @@ flask-docker-demo/
 ```bash
 git clone https://github.com/Eng-Mahmoud-Walid/Flask-Docker-Project.git
 
-cd flask-docker-demo
+cd Flask-Docker-Project
 ```
 
 2️⃣ Build the Docker Image
